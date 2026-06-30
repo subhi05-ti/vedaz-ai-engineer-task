@@ -1,0 +1,12 @@
+# Dependencies for Vedaz AI Engineer — Stage 2 Technical Task
+
+# Direct Google Gemini SDK
+google-generativeai>=0.8.0
+
+# LangChain packages for generator & tester
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-google-genai>=0.3.0
+
+# Environment variables loader
+python-dotenv>=1.0.1

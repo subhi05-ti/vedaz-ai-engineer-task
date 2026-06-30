@@ -1,0 +1,27 @@
+# --- Secrets & Private Keys ---
+.env
+.env.local
+.env.*.local
+
+# --- Python Cache Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Temporary Logs & Dumps ---
+*.log
+test_redirection.log
+quality_tester_run.log
+
+# --- System OS files ---
+.DS_Store
+Thumbs.db
