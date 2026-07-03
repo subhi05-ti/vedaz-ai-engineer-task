@@ -1,7 +1,0 @@
-VEDAZ JSON -> JSONL CONVERSION REPORT
-==================================================
-Input file  : Chat Data for assessment of applicants.json
-Output file : vedaz_finetune_ready.jsonl
-Total found : 55
-Converted   : 55
-Skipped     : 0
