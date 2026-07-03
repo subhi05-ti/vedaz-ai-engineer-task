@@ -1,14 +1,16 @@
-# Vedaz AI Engineer — Stage 2 Technical Task
+# Vedaz AI Engineer — Stage 2 Technical Task & Final Assessment
 
 ## Project Overview
 
-Three Python scripts that automate quality control for Vedaz's AI Astrologer chat data:
+This project now contains both the Stage 2 Technical Task (3 automation scripts) and the **Final Assessment (Fine-tuning Qwen2.5 and VPS Hosting write-up)**:
 
-| Script | Task | What it does |
-|--------|------|-------------|
+| Component | Task | Description |
+|-----------|------|-------------|
 | `chat_checker.py` | Task 1 | Validates, safety-checks, and splits chats |
 | `chat_generator.py` | Task 2 | Generates new chats using Gemini AI |
 | `quality_tester.py` | Task 3 | Grades AI assistant answers automatically |
+| [`finetune model/`](file:///c:/Users/viyom/OneDrive/Desktop/vedaz/finetune%20model/) | Final Assessment | Fine-tuning scripts, data converter, and Google Colab pipeline |
+| [`vllm_hosting_guide.md`](file:///c:/Users/viyom/OneDrive/Desktop/vedaz/finetune%20model/vllm_hosting_guide.md) | Write-up | Complete guide to host the model on a VPS using vLLM |
 
 ---
 
